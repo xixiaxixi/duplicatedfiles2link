@@ -2,8 +2,6 @@
 
 A tiny python script to convert duplicated files to symbolic/hard links.
 
-----
-
 ## Usage
 
 ```
